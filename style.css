@@ -1,0 +1,10 @@
+body{
+    height: 95vh;
+    width: 95;
+    display: flex;
+    justify-content: center; /* alinha horizontalmente no meio*/
+    align-items: center; /*alinha verticalmente no meio */
+    flex-direction: column; /* esse comando gira o body em forma de coluna */
+    color:rgba(33, 33, 226, 0.514);
+
+}
